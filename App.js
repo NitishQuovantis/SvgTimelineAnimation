@@ -39,8 +39,7 @@ export default class App extends Component {
             d={this.area}
             stroke="black"
             strokeWidth={1}
-            // fill="red"
-            fill="url(#prefix__c)"
+            fill="red"
             fillRule="evenodd"
           />
         </Svg>
